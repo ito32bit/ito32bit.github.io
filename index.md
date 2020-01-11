@@ -1,1 +1,2 @@
-[blog](blog/)
+- [BLOG](blog/)
+
